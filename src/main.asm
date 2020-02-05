@@ -81,7 +81,7 @@ PATCH_MODE EQU 2
 	MOIRE2_SCREEN_MEM_OFFSET   EQU #4000+16*LINEWIDTH
 		
 	
-	include "./lib/toolbox.asm"
+	include "../lib/toolbox.asm"
 
 	macro MY_DEBUG_BORDER col
 		if PROD==0

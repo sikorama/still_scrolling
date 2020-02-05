@@ -344,7 +344,7 @@ CARAC_TAB:
 CARAC_TAB_ROM: 
 
 ORG Music_Address  
-	INCbin "./resources/mus8000.bin"
+	INCbin "../resources/mus8000.bin"
 MUSIC_END:
 
 org #8800-4-4
@@ -377,7 +377,7 @@ screen_bloc1:
 		  ;SCRBLOCA BLACK_SCREEN_HW_OFFSET			; 
 		  
 Player_Address:
-	read "./extra/ArkosTrackerPlayer_CPC_MSX.asm"	
+	read "../extra/ArkosTrackerPlayer_CPC_MSX.asm"	
 PLAYER_END:
 ;CE: A contient le num de registre
 ;CS: A contient la valeur lue
