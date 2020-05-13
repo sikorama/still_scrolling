@@ -1,2 +1,12 @@
 # still_scrolling
-Source Code of my 4KB intro for CPC, released in 2018
+Source Code of my 4KB intro for Amstrad CPC, released in September 2018
+
+## Additional Credits =-
+* Colors by Barjack/Praline
+* RASM by ROUDOUDOU
+* Crunched with Shrinkler by BlueBerry 
+* Decruncher by Roudoudou & Madram
+* Audio Player by Targhan (Arkos Tracker)
+* Some Code Tricks by Madram, Offset, Ast 
+* Tested on various emulators: JavaCPC by Devil Markus, WinCPC by Flynn, Sugarbox by Lone
+
