@@ -1,7 +1,9 @@
 # still_scrolling
 Source Code of my 4KB intro for Amstrad CPC, released in September 2018
+http://www.pouet.net/prod.php?which=77907
 
-## Additional Credits =-
+
+## Additional Credits
 * Colors by Barjack/Praline
 * RASM by ROUDOUDOU
 * Crunched with Shrinkler by BlueBerry 
