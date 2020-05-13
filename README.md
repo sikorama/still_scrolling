@@ -12,3 +12,8 @@ http://www.pouet.net/prod.php?which=77907
 * Some Code Tricks by Madram, Offset, Ast 
 * Tested on various emulators: JavaCPC by Devil Markus, WinCPC by Flynn, Sugarbox by Lone
 
+# Notes
+
+* Doesn't work on CRTC1 and CRTC2, because of the border trick mixed with ruptures.
+* Some parts of Arkos player were removed as some effects were not used by the sound track
+* 4KB on Amstrad CPC must take account of AMSDOS Header (12B bytes), so techincally, this is a 3968 bytes intro!
